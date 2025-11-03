@@ -5,3 +5,5 @@ matplotlib
 scipy
 reportlab
 python-dateutil
+pytz
+requests
